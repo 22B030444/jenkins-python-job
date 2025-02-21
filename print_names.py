@@ -1,0 +1,2 @@
+print("Zhasmin")
+print("Nurkhan")
